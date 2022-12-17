@@ -11,7 +11,7 @@ Made in Unity with Mirror for Multiplayer
   
     
 Chick Game:  
-https://github.com/RealShitGamers/ChickGame/releases/tag/V1  
+https://github.com/RealShitGamers/Chick-Game-Releases/releases/tag/v1   
 Nick Julch and Nick Pequeno  
 Summary: Rooster must care and tend to his hens and chicks during the day and defend the coop at night. V1 released and V2 lined up with 10 key issues to resolve.
 Made in Unity  
