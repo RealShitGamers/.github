@@ -10,11 +10,10 @@ Summary: Sci-Fi'ish Mutiplayer PvE FPS
 Made in Unity with Mirror for Multiplayer  
   
     
-**In Work**  
 Chick Game:  
-https://github.com/RealShitGamers/ChickGame  
+https://github.com/RealShitGamers/ChickGame/releases/tag/V1
 Nick Julch and Nick Pequeno  
-Summary: Rooster must care and tend to his hens and chicks during the day and defend the coop at night. This project has some work left on it for the final boss and a more "infinite" game mode. Looking to release the beta version in the near future.  
+Summary: Rooster must care and tend to his hens and chicks during the day and defend the coop at night. V1 released and V2 lined up with 10 key issues to resolve.
 Made in Unity  
   
   
